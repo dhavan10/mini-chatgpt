@@ -17,3 +17,4 @@ results/
 
 # VS Code settings (optional)
 .vscode/
+"mini-chatgpt-model/model.safetensors" 
